@@ -1,8 +1,8 @@
 {
-    "timestamp": 1659129757611,
+    "timestamp": 1659170972189,
     "hashes": {
-        "VANILLA": "1250ba0d919fa9af94f8bcf4bf0d82d4e31f35ef",
-        "MODDED_NORMAL": "27c25cbee558fe149193222861f37c9913568bc4",
-        "MODDED_SLIM": "70eff8a4b6faf5ac9bc79ab8c00866e274b0ed51"
+        "VANILLA": "5809e5417e3aafd65eabcd8153674d0e2d9d512e",
+        "MODDED_NORMAL": "eae03eff5c8eeebaf5806065b39b8b2e5d58d5ad",
+        "MODDED_SLIM": "b35834fe8f41a02fe8d1e95d2c80d9290aed7c8c"
     }
 }
